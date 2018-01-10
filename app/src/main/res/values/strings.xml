@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bluetooth Serial</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_exit">Выход</string>
+    <string name="button_text">Кнопка</string>
+    <string name="second_acticity">Второй экран</string>
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
